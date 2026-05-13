@@ -9,3 +9,4 @@
 - 5 - 🎬 [Fix-your-pull-ups-in-2-minutes](https://github.com/ergodore/Ourtube/tree/main/videos/Fix-your-pull-ups-in-2-minutes)
 - 6 - 🎬 [How-to-do-a-proper-push-up](https://github.com/ergodore/Ourtube/tree/main/videos/How-to-do-a-proper-push-up)
 - 7 - 🎬 [How-your-body-changes-with-calisthenics？](https://github.com/ergodore/Ourtube/tree/main/videos/How-your-body-changes-with-calisthenics%EF%BC%9F)
+- 8 - 🎬 [I-tried-replacing-these-5-gym-machines-with-just-calisthenics,-here’s-what-happened](https://github.com/ergodore/Ourtube/tree/main/videos/I-tried-replacing-these-5-gym-machines-with-just-calisthenics%2C-here%E2%80%99s-what-happened)
